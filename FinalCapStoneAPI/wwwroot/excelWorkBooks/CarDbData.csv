@@ -1,0 +1,123 @@
+id,make,model,year,color
+1,Audi ,A4 ,2019,black
+2,Audi ,A4 allroad ,2019,black
+3,Audi ,A5 ,2019,silver
+4,Audi ,A6 ,2019,blue
+5,Audi ,A6 allroad ,2019,tan
+6,Audi ,A7 ,2020,tan
+7,Audi ,A8 ,2020,black
+8,GMC ,Acadia ,2020,blue
+9,Hyundai ,Accent ,2020,gold
+10,Honda ,Accord ,2019,silver
+11,Honda ,Accord Hybrid ,2019,silver
+12,Mercedes-Benz ,A-Class ,2019,gray
+13,Nissan ,Altima ,2019,brown
+14,Nissan ,Armada ,2019,white
+15,Volkswagen ,Arteon ,2019,blue
+16,Subaru ,Ascent ,2019,gold
+17,Volkswagen ,Atlas ,2019,yellow
+18,Volkswagen ,Atlas Cross Sport ,2020,black
+19,Cadillac ,ATS ,2020,brown
+20,Cadillac ,ATS-V ,2020,tan
+21,Toyota ,Avalon ,2020,white
+22,Toyota ,Avalon Hybrid ,2020,blue
+23,Lamborghini ,Aventador ,2020,green
+24,Lincoln ,Aviator ,2020,gray
+25,Volkswagen ,Beetle ,2020,brown
+26,Bentley ,Bentayga ,2020,orange
+27,Chevrolet ,Blazer ,2020,orange
+28,Chevrolet ,Bolt EV ,2019,white
+29,Subaru ,BRZ ,2019,blue
+30,Kia ,Cadenza ,2019,blue
+31,Chevrolet ,Camaro ,2019,silver
+32,Toyota ,Camry ,2019,orange
+33,Toyota ,Camry Hybrid ,2019,silver
+34,GMC ,Canyon Crew Cab ,2019,yellow
+35,GMC ,Canyon Extended Cab ,2019,orange
+36,Buick ,Cascada ,2019,black
+37,Porsche ,Cayenne ,2019,green
+38,Porsche ,Cayenne Coupe ,2018,brown
+39,Mercedes-Benz ,C-Class ,2019,red
+40,Dodge ,Challenger ,2019,blue
+41,Dodge ,Charger ,2019,gray
+42,Jeep ,Cherokee ,2019,gold
+43,Toyota ,C-HR ,2019,yellow
+44,Honda ,Civic ,2019,yellow
+45,Honda ,Civic Type R ,2019,white
+46,Mercedes-Benz ,CLA ,2019,silver
+47,Honda ,Clarity Electric ,2019,brown
+48,Honda ,Clarity Fuel Cell ,2019,black
+49,Honda ,Clarity Plug-in Hybrid ,2019,gold
+50,Mercedes-Benz ,CLS ,2018,red
+51,MINI ,Clubman ,2018,orange
+52,Chevrolet ,Colorado Crew Cab ,2018,green
+53,Chevrolet ,Colorado Extended Cab ,2018,yellow
+54,Jeep ,Compass ,2018,black
+55,Lincoln ,Continental ,2018,green
+56,Bentley ,Continental ,2021,yellow
+57,MINI ,Convertible ,2018,green
+58,Toyota ,Corolla ,2018,red
+59,Toyota ,Corolla Hatchback ,2018,gold
+60,Toyota ,Corolla Hybrid ,2018,black
+61,Lincoln ,Corsair ,2018,green
+62,Chevrolet ,Corvette ,2018,gold
+63,MINI ,Countryman ,2018,blue
+64,Subaru ,Crosstrek ,2018,brown
+65,Chevrolet ,Cruze ,2018,blue
+66,Honda ,CR-V ,2018,silver
+67,Honda ,CR-V Hybrid ,2018,white
+68,Cadillac ,CT4 ,2018,orange
+69,Cadillac ,CT5 ,2018,yellow
+70,Cadillac ,CT6 ,2018,black
+71,Cadillac ,CT6-V ,2019,brown
+72,Cadillac ,CTS ,2019,tan
+73,Cadillac ,CTS-V ,2019,tan
+74,MAZDA ,CX-3 ,2019,silver
+75,MAZDA ,CX-30 ,2020,tan
+76,MAZDA ,CX-5 ,2019,gray
+77,MAZDA ,CX-9 ,2019,tan
+78,Rolls-Royce ,Dawn ,2019,gray
+79,Aston Martin ,DB11 ,2019,blue
+80,Aston Martin ,DBS Superleggera ,2018,tan
+81,Land Rover ,Discovery ,2018,green
+82,Land Rover ,Discovery Sport ,2018,silver
+83,Dodge ,Durango ,2018,black
+84,Mercedes-Benz ,E-Class ,2019,white
+85,Mitsubishi ,Eclipse Cross ,2019,gold
+86,Ford ,EcoSport ,2019,green
+87,Ford ,Edge ,2019,blue
+88,Volkswagen ,e-Golf ,2019,silver
+89,Hyundai ,Elantra ,2019,red
+90,Hyundai ,Elantra GT ,2019,white
+91,Buick ,Enclave ,2019,brown
+92,Buick ,Encore ,2019,black
+93,Buick ,Encore GX ,2018,gold
+94,Buick ,Envision ,2019,yellow
+95,Jaguar ,E-PACE ,2019,black
+96,Chevrolet ,Equinox ,2019,green
+97,Lexus ,ES ,2019,orange
+98,Cadillac ,Escalade ,2018,gray
+99,Cadillac ,Escalade ESV ,2018,white
+100,Ford ,Escape ,2018,gold
+101,Audi ,e-tron ,2021,gold
+102,Ford ,Expedition ,2019,blue
+103,Ford ,Expedition MAX ,2018,green
+104,Ford ,Explorer ,2018,tan
+105,Chevrolet ,Express 2500 Cargo ,2018,gold
+106,Chevrolet ,Express 2500 Passenger ,2019,gold
+107,Chevrolet ,Express 3500 Cargo ,2019,green
+108,Chevrolet ,Express 3500 Passenger ,2018,yellow
+109,Ford ,F150 Regular Cab ,2018,gold
+110,Ford ,F150 Super Cab ,2018,gold
+111,Ford ,F150 SuperCrew Cab ,2019,silver
+112,Ford ,F250 Super Duty C. Cab ,2019,yellow
+113,Ford ,F250 Super Duty R. Cab ,2019,yellow
+114,Ford ,F250 Super Duty S. Cab ,2019,silver
+115,Ford ,F350 Super Duty C. Cab ,2019,tan
+116,Ford ,F350 Super Duty R. Cab ,2019,yellow
+117,Ford ,F350 Super Duty S. Cab ,2019,orange
+118,Ford ,F450 Super Duty C. Cab ,2020,brown
+119,Ford ,F450 Super Duty R. Cab ,2020,gold
+120,Ford ,Fiesta ,2020,gray
+121,Honda ,Fit ,2020,silver
+122,Ford ,Flex ,2020,green
